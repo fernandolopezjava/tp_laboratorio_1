@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1599654236 source:c:\users\fer_g\onedrive\escritorio\tp_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1599652037 source:c:\users\fer_g\onedrive\escritorio\tp_laboratorio1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1599637293 c:\users\fer_g\onedrive\escritorio\tp_laboratorio1\biblioteca_tplaboratorio1.h
+	<stdio.h>
+
+1599652242 c:\users\fer_g\onedrive\escritorio\tp_laboratorio1\funciones.h
+	<stdio.h>
+
